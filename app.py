@@ -5,5 +5,5 @@ app = Flask(__name__)
 def hello_world():
     return "Hello world!"
 
-if __name__ == 'main'
-    app.run 
+if __name__ == 'main':
+    app.run
